@@ -29,7 +29,7 @@ A responsive React application that tracks cryptocurrency prices with real-time 
 - Node.js (v16 or higher)
 - npm (v8 or higher) or yarn
 
-### Steps
+### Steps To Install in Local Device
 
 1. **Clone the repository**
    ```bash
