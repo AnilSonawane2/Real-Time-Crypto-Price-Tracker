@@ -33,8 +33,8 @@ A responsive React application that tracks cryptocurrency prices with real-time 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/crypto-price-tracker.git
-   cd crypto-price-tracker
+   git clone https://github.com/AnilSonawane2/Real-Time-Crypto-Price-Tracker.git
+   cd Real-Time-Crypto-Price-Tracker
 
 2. **Install Dependencies**
    ```bash
@@ -47,3 +47,6 @@ A responsive React application that tracks cryptocurrency prices with real-time 
 4. **Open in Browser**
    ```bash
    http://localhost:5173
+
+## Project Video Link
+
