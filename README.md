@@ -49,4 +49,4 @@ A responsive React application that tracks cryptocurrency prices with real-time 
    http://localhost:5173
 
 ## Project Video Link
-
+ Video Link : (https://youtu.be/U1M-7Zt-a-o)
