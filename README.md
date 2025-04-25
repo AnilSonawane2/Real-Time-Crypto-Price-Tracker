@@ -1,6 +1,6 @@
 # 📊 Real-Time Crypto Price Tracker
 
-![Project Screenshot](/screenshot.png) <!-- Add your screenshot path -->
+Project Screenshot ![Screenshot (64)](https://github.com/user-attachments/assets/32acbd65-3d7c-4e3f-90e9-ce1dc79cd762)
 
 A responsive React application that tracks cryptocurrency prices with real-time updates, filtering, and sorting functionality.
 
